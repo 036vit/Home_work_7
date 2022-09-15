@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\bin\Debug\net6.0\Task 54.exe
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\bin\Debug\net6.0\Task 54.deps.json
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\bin\Debug\net6.0\Task 54.runtimeconfig.json
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\bin\Debug\net6.0\Task 54.dll
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\bin\Debug\net6.0\Task 54.pdb
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.dll
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\refint\Task 54.dll
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.pdb
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\Task 54.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Домашка 8 по C#\Task 54\obj\Debug\net6.0\ref\Task 54.dll
